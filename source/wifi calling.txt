@@ -1,0 +1,18 @@
+Here are some solutions that might be helpful for customers who are experiencing Wi-Fi calling issues:
+Check network connection quality: Poor voice quality is usually caused by poor network connection quality. Customers can check their network connection quality by running a ping test. If they are experiencing packet loss, they should contact their internet service provider to resolve the issue
+1
+6
+.
+Check Wi-Fi calling feature: Customers should ensure that their device supports Wi-Fi calling and that the feature is enabled in their device settings. If they cannot find the Wi-Fi calling feature in the Settings app, they can check online or reach out to their device’s manufacturer to see if their phone supports it. If supported, they should similarly contact their carrier to confirm that they support Wi-Fi calling
+3
+.
+Restart phone and router: If Wi-Fi calling is activated on their device, but it still isn’t working, customers can restart their phone and router. It's always a good idea to do so when they run into Wi-Fi calling issues
+3
+.
+Check for new software updates: With any phone issue, customers should always check for new software updates. If there are any available, they might fix the problem they are encountering. Wi-Fi calling may not work simply because their Android phone needs an update
+3
+.
+Contact carrier: If the issue persists, customers can contact their carrier and provide them with the details of the issue. The carrier will then be able to troubleshoot the issue with them and provide a resolution
+6
+.
+By following these solutions, customers can resolve their Wi-Fi calling issues and enjoy high-quality Wi-Fi calls.

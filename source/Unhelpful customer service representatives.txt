@@ -1,0 +1,6 @@
+Unhelpful customer service representatives
+Provide additional training: The company can provide additional training to the chatbot to ensure that it is knowledgeable and able to provide effective solutions to customers.
+Provide scripts or guidelines: The company can provide scripts or guidelines for the chatbot to follow to ensure that it is providing consistent and helpful responses to customers.
+Monitor chat: The company can monitor chat between the chatbot and customers to identify areas for improvement and provide feedback to the chatbot.
+Apologize for the unhelpful response: The chatbot can apologize for the unhelpful response and assure the customer that they will do everything they can to resolve their issue as quickly as possible.
+Escalate the issue: If the chatbot is unable to provide a helpful response, it can escalate the issue to a supervisor or manager who may be able to provide a solution.

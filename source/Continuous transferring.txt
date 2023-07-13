@@ -1,0 +1,7 @@
+Continuous transferring
+The customer was directed from one hotline to another without fixing his issue
+Train chatbot: The company can train the chatbot to handle a wider range of issues so that customers are not transferred as frequently.
+Provide a dedicated representative: The company can provide a dedicated representative to the customer's issue to ensure that they are not transferred between departments.
+Use chat routing technology: The company can use chat routing technology to ensure that customers are directed to the correct department the first time they chat.
+Apologize for the transfer: The chatbot can apologize for the transfer and assure the customer that they will do everything they can to resolve their issue as quickly as possible.
+Provide a direct contact: The chatbot can provide a direct contact for the customer to reach out to if they have any further issues or concerns. This will ensure that the customer has a point of contact if they need further assistance.

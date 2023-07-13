@@ -1,0 +1,19 @@
+Here are some solutions that might help end customers who are experiencing broadband performance issues:
+Check internet speed: The first thing an end customer should do when experiencing broadband performance issues is to check their internet speed. They can do this by running a speed test. If they have slow internet speed, it could be the reason why they are experiencing broadband performance issues
+1
+5
+.
+Check router specifications: When experiencing a slow connection, customers should take a look at their router's specifications and check to make sure it can handle the speed they're paying for. If the device is out of date, they may change it for free. After all, they rent the equipment from their internet service provider in most cases, and old equipment on their networks slows everyone down, so they have an incentive to help
+4
+.
+Check network connection quality: Poor broadband performance is usually caused by poor network connection quality. Customers can check their network connection quality by running a ping test. If they are experiencing packet loss, they should contact their internet service provider to resolve the issue
+1
+6
+.
+Restart modem and router: If broadband performance issues persist, customers can restart their modem and router. This will refresh their network connection and may resolve the issue
+1
+.
+Contact internet service provider: If the issue persists, customers can contact their internet service provider and provide them with the details of the issue. The internet service provider will then be able to troubleshoot the issue with them and provide a resolution
+1
+.
+By following these solutions, end customers can improve their broadband performance and enjoy high-speed internet.

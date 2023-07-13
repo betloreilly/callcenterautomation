@@ -1,0 +1,8 @@
+No company follow-up
+Clients did not hear or get any feedback for an issue they had:
+
+Provide a timeline: The chatbot can provide a timeline for when the customer can expect a follow-up. This will set expectations and show the customer that the company is taking their issue seriously.
+Assign a dedicated representative: The company can assign a dedicated representative to the customer's issue to ensure that it is resolved in a timely manner and that the customer is kept informed of progress.
+Follow up regularly: The chatbot can follow up with the customer regularly to provide updates on their issue and ensure that it is being resolved.
+Apologize for the lack of follow-up: The chatbot can apologize for the lack of follow-up and assure the customer that they will do everything they can to resolve their issue as quickly as possible.
+Provide a direct contact: The chatbot can provide a direct contact for the customer to reach out to if they have any further issues or concerns. This will ensure that the customer has a point of contact if they need further assistance.

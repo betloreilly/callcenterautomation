@@ -1,0 +1,6 @@
+Long wait times
+Provide an estimated wait time: The chatbot can provide an estimated wait time to the customer so they know how long they will have to wait.
+Offer a callback option: The chatbot can offer a callback option so the customer does not have to wait on hold. The chatbot can call the customer back when they are available.
+Provide self-service options: The chatbot can provide self-service options such as a knowledge base or FAQ section on the website so customers can find answers to their questions without having to wait on hold.
+Increase staffing during peak hours: The company can increase staffing during peak hours to reduce wait times for customers.
+Apologize for the wait: The chatbot can apologize for the long wait time and assure the customer that they will do everything they can to resolve their issue as quickly as possible.

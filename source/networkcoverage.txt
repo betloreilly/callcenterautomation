@@ -1,0 +1,24 @@
+Poor network coverage or signal issues
+
+Use our Network Status Checker to find out how our network’s performing where you are – including up-to-date information on anything going on that might affect your signal. 
+
+Simply enter your location or postcode and choose what type of service you want to check.
+ Go to: https://www.vodafone.co.uk/network/status-checker
+
+
+ Other Help
+
+
+ Here are some solutions for an end user experiencing poor network coverage or signal issues:
+Check signal strength: The first thing an end user should do when experiencing network issues is to check their signal strength. They can do this by looking at the signal bars on their device. If they have low signal strength, it could be the reason why they are experiencing network issues
+1
+.
+Move to a different location: If the coverage in their area is poor, they can try moving to a different location to see if the signal improves
+1
+.
+Contact service provider: If the issue persists, the end user can contact their service provider and provide them with the following information: their phone number, the model of their device, the error message they are receiving, and the troubleshooting steps they have already taken. The service provider will then be able to troubleshoot the issue with them and provide a resolution. They may also be able to reset their network settings or provide them with a new SIM card if needed
+1
+.
+By following these solutions, an end user can improve their network coverage and signal strength
+
+
