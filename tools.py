@@ -19,7 +19,7 @@ cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
 session = cluster.connect()
  
 
-### Character Recognition and Vector Search tool #########
+### Speech to Text and Vector Search tool #########
 class AudioSearch(BaseTool):
     name = "AudioSearch"
     description = "Use this tool that you are asked information about invoice. Give the best possible solution's summary to the customer as a polite chatbot "

@@ -46,7 +46,7 @@ agent = initialize_agent(
 # set title
 st.title('Call Center Support')
 image = Image.open('/Users/betuloreilly/demos/agentswithaudio/source/logo.png')
-#st.image(image)
+st.image(image)
 audio = audiorecorder("Click to record", "Recording...")
     
 
